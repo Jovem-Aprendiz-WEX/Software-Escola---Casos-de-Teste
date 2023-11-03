@@ -1,0 +1,1 @@
+# Software-Escola---Casos-de-Teste
